@@ -1,5 +1,6 @@
 #pragma once
 #include <string>
+#include <iostream>
 
 using namespace std;
 
@@ -21,6 +22,8 @@ public:
 
 	void setName(string name);
 	string getName();
+
+	void show();
 
 protected:
 	bool isVerterate;

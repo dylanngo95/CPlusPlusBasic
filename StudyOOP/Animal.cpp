@@ -1,6 +1,6 @@
 #include "stdafx.h"
 #include "Animal.h"
-
+#include <iostream>
 
 Animal::Animal()
 {
@@ -24,8 +24,8 @@ Animal::Animal(string name, int weight, string live, bool isVerterate) {
 };
 
 
-Animal::~Animal()
-{
+Animal::~Animal(){
+	cout << "[Animal]==>" << Animal::name << " was destroyed." << endl;
 };
 
 void Animal::setName(string name) {
@@ -34,4 +34,8 @@ void Animal::setName(string name) {
 
 string Animal::getName() {
 	return Animal::name;
+};
+
+void Animal::show() {
+	cout << Animal::name << " is Animal." << endl;
 };

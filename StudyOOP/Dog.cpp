@@ -1,5 +1,6 @@
 #include "stdafx.h"
 #include "Dog.h"
+#include <iostream>
 
 Dog::Dog() {
 };
@@ -22,6 +23,7 @@ Dog::Dog(int legs, string name, int weight, string live, bool isVerterate) : Ani
 
 
 Dog::~Dog() {
+	cout << "[Dog]==>" << Dog::getName() << " was destroyed." << endl;
 };
 
 int Dog::getLegs() {
