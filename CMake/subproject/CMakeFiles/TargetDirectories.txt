@@ -1,0 +1,10 @@
+C:/Users/tinh.ngo/NIS/CPlusPlusBasic/CMake/subproject/CMakeFiles/edit_cache.dir
+C:/Users/tinh.ngo/NIS/CPlusPlusBasic/CMake/subproject/CMakeFiles/rebuild_cache.dir
+C:/Users/tinh.ngo/NIS/CPlusPlusBasic/CMake/subproject/main/CMakeFiles/edit_cache.dir
+C:/Users/tinh.ngo/NIS/CPlusPlusBasic/CMake/subproject/main/CMakeFiles/main.dir
+C:/Users/tinh.ngo/NIS/CPlusPlusBasic/CMake/subproject/main/CMakeFiles/rebuild_cache.dir
+C:/Users/tinh.ngo/NIS/CPlusPlusBasic/CMake/subproject/sb2/CMakeFiles/rebuild_cache.dir
+C:/Users/tinh.ngo/NIS/CPlusPlusBasic/CMake/subproject/sb2/CMakeFiles/sub2.dir
+C:/Users/tinh.ngo/NIS/CPlusPlusBasic/CMake/subproject/sb2/CMakeFiles/edit_cache.dir
+C:/Users/tinh.ngo/NIS/CPlusPlusBasic/CMake/subproject/sb3/CMakeFiles/edit_cache.dir
+C:/Users/tinh.ngo/NIS/CPlusPlusBasic/CMake/subproject/sb3/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/tinh.ngo/NIS/CPlusPlusBasic/CMake/subproject/sb2/src/sublib2.cpp
+iostream
+-
+sublib2/sublib2.h
+C:/Users/tinh.ngo/NIS/CPlusPlusBasic/CMake/subproject/sb2/src/sublib2/sublib2.h
+
+sb2/include/sublib2/sublib2.h
+
